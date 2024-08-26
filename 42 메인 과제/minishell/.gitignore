@@ -1,7 +1,0 @@
-*.o
-minishell
-*.txt
-pipex
-*.a
-.DS_Store
-minishell.dSYM
